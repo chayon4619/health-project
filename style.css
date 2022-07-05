@@ -26,10 +26,7 @@ body {
 
 
 .head img {
-    width: 120%;
-    position: relative;
-    right: 200px;
-    bottom: 130px;
+    width: 110%;
 
 
 }
@@ -91,4 +88,50 @@ body {
 #you {
     font-size: 20px;
     padding-bottom: 60px;
+}
+
+#recipies {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    padding-top: 50px;
+    color: darkgrey;
+}
+
+#descip {
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    font-size: 20px;
+    font-weight: 500;
+    color: grey;
+}
+
+.recipies {
+    display: flex;
+    margin: 20px 5%;
+
+
+
+}
+
+.box {
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 20px;
+    margin: 5%;
+    padding: 20px;
+
+
+
+
+
+}
+
+.box img {
+    width: 100%;
+}
+
+#my {
+    font-size: 30px;
+    font-weight: bolder;
 }
