@@ -36,7 +36,7 @@ body {
     font-weight: bolder;
 }
 
-#skip {
+.skip {
     color: coral;
 }
 
@@ -134,4 +134,39 @@ body {
 #my {
     font-size: 30px;
     font-weight: bolder;
+}
+
+.foot {
+    display: flex;
+    box-shadow: 10px 10px 20px gray;
+    padding: 25px;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    border-radius: 20px;
+
+}
+
+.youtube {
+    width: 33%;
+    padding-bottom: 10px;
+    font-size: 15px;
+
+}
+
+.bold {
+    font-size: 40px;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 80px;
+
+
 }
